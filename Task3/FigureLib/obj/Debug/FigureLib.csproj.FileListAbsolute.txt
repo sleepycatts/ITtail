@@ -1,0 +1,6 @@
+C:\Users\shs\source\repos\GrassKing\Task3\FigureLib\bin\Debug\FigureLib.dll
+C:\Users\shs\source\repos\GrassKing\Task3\FigureLib\bin\Debug\FigureLib.pdb
+C:\Users\shs\source\repos\GrassKing\Task3\FigureLib\obj\Debug\FigureLib.csprojAssemblyReference.cache
+C:\Users\shs\source\repos\GrassKing\Task3\FigureLib\obj\Debug\FigureLib.csproj.CoreCompileInputs.cache
+C:\Users\shs\source\repos\GrassKing\Task3\FigureLib\obj\Debug\FigureLib.dll
+C:\Users\shs\source\repos\GrassKing\Task3\FigureLib\obj\Debug\FigureLib.pdb

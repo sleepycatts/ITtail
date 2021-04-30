@@ -1,0 +1,15 @@
+1|1|Str|1|1
+5|5|Test|5|5
+62|62|Text|62|62
+2|2|Str|2|2
+3|3|Test|3|3
+5|5|Text|5|5
+1|1|Str|1|1
+Test
+Text
+Str
+Test
+Text
+Str
+Test
+Text

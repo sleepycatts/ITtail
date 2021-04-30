@@ -1,0 +1,13 @@
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.Form1.resources
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.pdb
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.AskDouble.resources
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.AskPoint.resources
+C:\Users\shs\source\repos\GrassKing\Task3\Task3\obj\Debug\Task3.AskString.resources

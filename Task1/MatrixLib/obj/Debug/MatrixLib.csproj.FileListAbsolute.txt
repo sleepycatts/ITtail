@@ -1,0 +1,12 @@
+C:\Users\shs\source\repos\GrassKing\Task1\MatrixLib\bin\Debug\MatrixLib.dll
+C:\Users\shs\source\repos\GrassKing\Task1\MatrixLib\bin\Debug\MatrixLib.pdb
+C:\Users\shs\source\repos\GrassKing\Task1\MatrixLib\obj\Debug\MatrixLib.csprojAssemblyReference.cache
+C:\Users\shs\source\repos\GrassKing\Task1\MatrixLib\obj\Debug\MatrixLib.csproj.CoreCompileInputs.cache
+C:\Users\shs\source\repos\GrassKing\Task1\MatrixLib\obj\Debug\MatrixLib.dll
+C:\Users\shs\source\repos\GrassKing\Task1\MatrixLib\obj\Debug\MatrixLib.pdb
+C:\Users\Саня\Desktop\ИТ\Task1\MatrixLib\bin\Debug\MatrixLib.dll
+C:\Users\Саня\Desktop\ИТ\Task1\MatrixLib\bin\Debug\MatrixLib.pdb
+C:\Users\Саня\Desktop\ИТ\Task1\MatrixLib\obj\Debug\MatrixLib.csprojAssemblyReference.cache
+C:\Users\Саня\Desktop\ИТ\Task1\MatrixLib\obj\Debug\MatrixLib.csproj.CoreCompileInputs.cache
+C:\Users\Саня\Desktop\ИТ\Task1\MatrixLib\obj\Debug\MatrixLib.dll
+C:\Users\Саня\Desktop\ИТ\Task1\MatrixLib\obj\Debug\MatrixLib.pdb
